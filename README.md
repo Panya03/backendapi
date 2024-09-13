@@ -23,7 +23,6 @@ This project is a backend **REST API** for a social media platform, developed us
 ## Installation
 
 - **Navigate to the Project Directory**:
-   ```bash
 •	cd backendapi
 
 Install Dependencies: Ensure you have Node.js installed, then run:
